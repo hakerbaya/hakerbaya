@@ -2,7 +2,7 @@
   
 <h3>Assalamu alaykum! 🤝 </h3>
 
-🚀 JavaScript developer getting a Bachelor’s degree in Computer Science & Engineering from the University of Kashmir. 🐼 WhiteHat Hacker, 👨🏻‍💻 Bug Bounty Hunter, 🦉open-source contributor,  🙌 AngelHack Ambassador, 💻 Beta – Microsoft Learn Student Ambassador, ✍️ Technical Writer.
+🚀 JavaScript developer getting a Bachelor’s degree in Computer Science & Engineering from the University of Kashmir. 🐼 WhiteHat Hacker, 👨🏻‍💻 Bug Bounty Hunter, ✏ Competitive Programmer, 🦉open-source contributor,  🙌 AngelHack Ambassador, 💻 Beta – Microsoft Learn Student Ambassador, ✍️ Technical Writer.
 
 </div>
 
