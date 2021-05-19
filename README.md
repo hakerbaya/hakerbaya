@@ -3,7 +3,6 @@
 <h3>Assalamu alaykum! 🤝 </h3>
 
 🚀 JavaScript developer with a Bachelor’s degree in Computer Science & Engineering from the University of Kashmir. 🐼 WhiteHat Hacker, 👨🏻‍💻 Bug Bounty Hunter, ✏ Competitive Programmer, 🦉open-source contributor,  🙌 AngelHack Ambassador, 💻 Beta – Microsoft Learn Student Ambassador, ✍️ Technical Writer.
-![](https://raw.githubusercontent.com/hakerbaya/hakerbaya/main/Cover_Pic.png)
 
 </div>
 
